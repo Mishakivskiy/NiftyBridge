@@ -1,0 +1,11 @@
+# Web framework for building APIs
+fastapi==0.68.1
+
+# ASGI server to run the FastAPI application
+uvicorn==0.15.0
+
+# Library for language-related tasks and processing
+langchain==0.0.163
+
+# Library for loading environment variables from a file
+python-dotenv==1.0.0
